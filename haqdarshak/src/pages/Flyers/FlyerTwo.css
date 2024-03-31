@@ -1,0 +1,24 @@
+.box {
+  margin: 0;
+  padding: 0;
+  background-color: #f8e7ff;
+  
+  height: 100vh;
+  width:49vh;
+  color: #4F285E;
+
+}
+.textLine{
+    padding-left: 40px;
+    padding-top: 150px;
+    font-size: 40px;
+    font-weight: 500;
+}
+.bar{
+    height:2vh;
+    width:20vh;
+    background-color: #BE5587;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
